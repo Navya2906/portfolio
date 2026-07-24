@@ -9,7 +9,6 @@ import {
   AiOutlineFundProjectionScreen,
   AiOutlineUser,
   AiOutlineMail,
-  AiFillPhone,
 } from "react-icons/ai";
 import { CgFileDocument } from "react-icons/cg";
 
